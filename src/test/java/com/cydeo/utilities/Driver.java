@@ -40,7 +40,7 @@ public class Driver {
             }
         /*
         Depending on the browserType our switch statement will determine
-        to open specific type of browser/driver
+        to open specific type of browser/driver//
          */
         switch(browserType){
             case "remote-chrome":
